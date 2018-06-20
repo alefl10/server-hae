@@ -1,0 +1,39 @@
+{
+  "name": "sd-server-api",
+  "version": "1.0.0",
+  "description": "Senior Design Server API",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alefl10/SeniorDesign.git"
+  },
+  "author": "Alejandro Ferrero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alefl10/SeniorDesign/issues"
+  },
+  "homepage": "https://github.com/alefl10/SeniorDesign#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "lodash": "^4.17.10",
+    "mongoose": "^4.13.9",
+    "morgan": "^1.9.0",
+    "npm": "^5.7.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.6.1"
+  },
+  "engines": {
+    "node": "9.8.0"
+  }
+}
