@@ -128,4 +128,4 @@ Every time the server is started the data base is cleaned up and it seeds the fo
 - Do not forget to restart de server everytime you wish to see the initial (seeded) data on the front end application client-hae (Front End HAE  Assesment)
 - Ports Used (LocalHost)
     - 8080 for the Server
-    -27017 for MongoDB
+    - 27017 for MongoDB
