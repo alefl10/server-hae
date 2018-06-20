@@ -65,6 +65,19 @@ It is assumed you have already installed the following on your computer:
 
 - If everything has been set up properly the server should be up and running now
 
+## API Details
+
+The API provides the following:
+
+| action | URL | description |
+| ------ | --- | ----------- |
+| `GET` | `/candidates/` | list all candidates |
+| `POST` | `/candidates/` | create a new candidate |
+| `GET` | `/candidates/:id/` | retrieve candidate |
+| `PUT` | `/candidates/:id/` | update candidate |
+| `DELETE` | `/candidates/:id/` | delete candidate |
+
+
 
 ## Seed Data
 
