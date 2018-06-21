@@ -8,7 +8,7 @@ const candidates = [
     name: 'Alan Cruz',
     years_exp: 10,
     status: 'pending',
-    date_applied: '2018-06-05T11:55:42Z',
+    date_applied: '2018/06/05T11:55:42Z',
     reviewed: false,
     description: 'An accomplished legal professional with a myriad of experience and a stellar reputation for handling all facets of litigation and trial practice.  An analytical and strategic thinker with a firm understanding of the drivers and interests impacting litigation, the legal ramifications of the workplace disciplinary process and the overall dynamics of attorney-client relations. Licensed to practice in Pennsylvania, New Jersey and the District of Columbia.',
   },
@@ -27,14 +27,6 @@ const candidates = [
     date_applied: '2018-06-05T11:55:42Z',
     reviewed: true,
     description: 'Experience in business immigration with an emphasis on the preparation, review and analysis of immigrant (PERM, I-140 immigrant petitions and AOS applications) and nonimmigrant (L-1A, L-1B, H-1B, O-1) visa petitions and applications. Work directly with large multinational clients in a broad spectrum of global industries. Advise on mergers, acquisitions and corporate reorganizations issues to ensure compliance with immigration regulations. In charge of responding to NOIR, RFE and audits.',
-  },
-  {
-    name: 'Wendy Santiago',
-    years_exp: 15,
-    status: 'pending',
-    date_applied: '2018-05-05T11:55:42Z',
-    reviewed: false,
-    description: '',
   },
   {
     name: 'Adrienne Hopkins',
