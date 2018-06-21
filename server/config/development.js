@@ -2,6 +2,7 @@ module.exports = {
   logging: true,
   seed: true,
   db: {
-    url: 'mongodb://localhost/candidate',
+    url: 'mongodb://localhost',
+    dataBase: 'HireAnEsquire',
   },
 };

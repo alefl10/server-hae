@@ -2,7 +2,7 @@ const express = require('express');
 const api = require('./api/api');
 const config = require('./config/config');
 
-require('mongoose').connect(config.db.url, {
+require('mongoose').connect(`${config.db.url}/${config.db.dataBase}`, {
   useMongoClient: true,
 });
 
