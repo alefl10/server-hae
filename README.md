@@ -1,7 +1,7 @@
 # server-hae
 
 Back End Server for Front End HAE Assesment. You can find that assessment at
-<https://github.com/alefl10/client-hae>
+<https://github.com/alefl10/react-client-hae>
 
 ## **Setup**
 
